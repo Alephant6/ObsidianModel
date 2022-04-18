@@ -1,0 +1,672 @@
+{
+  "workspaces": {
+    "听力": {
+      "main": {
+        "id": "6b7a676d292a952e",
+        "type": "split",
+        "children": [
+          {
+            "id": "9dbbf80449137e98",
+            "type": "split",
+            "children": [
+              {
+                "id": "3ff5a24a14b005e2",
+                "type": "leaf",
+                "dimension": 18.23843416370107,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "听力/第一次上课/test.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "f5dc7e9236f7b0e6",
+                "type": "split",
+                "dimension": 81.76156583629893,
+                "children": [
+                  {
+                    "id": "8e16ecd7c5a93e68",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "听力/第一次上课/test.md",
+                        "mode": "preview",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "b3e52c9c3e115c52",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "听力/第一次上课/test.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2ad5ea38afc71e9c",
+        "type": "split",
+        "children": [
+          {
+            "id": "cea841e032f9c5ab",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f24f2cf1aae346b5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "97219655284d350c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6eb5b5fca7094554",
+        "type": "split",
+        "children": [
+          {
+            "id": "96590b12aca3392e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "21133a3627f7c251",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "听力/第一次上课/test.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a242b95b9f39e864",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "28dad92e89759f3b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "听力/第一次上课/test.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "3ff5a24a14b005e2"
+    },
+    "空": {
+      "main": {
+        "id": "6b7a676d292a952e",
+        "type": "split",
+        "children": [
+          {
+            "id": "7fa39e8649bac409",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2ad5ea38afc71e9c",
+        "type": "split",
+        "children": [
+          {
+            "id": "cea841e032f9c5ab",
+            "type": "tabs",
+            "dimension": 72.24199288256227,
+            "children": [
+              {
+                "id": "f24f2cf1aae346b5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "97219655284d350c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "af6a8fe76139d3a6",
+            "type": "tabs",
+            "dimension": 27.75800711743772,
+            "children": [
+              {
+                "id": "a242b95b9f39e864",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 267.5
+      },
+      "right": {
+        "id": "6eb5b5fca7094554",
+        "type": "split",
+        "children": [
+          {
+            "id": "96590b12aca3392e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "21133a3627f7c251",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "7fa39e8649bac409"
+    },
+    "书写_出链": {
+      "main": {
+        "id": "6b7a676d292a952e",
+        "type": "split",
+        "children": [
+          {
+            "id": "fd1f5cdf8b0dcb7b",
+            "type": "split",
+            "children": [
+              {
+                "id": "97d937206261380a",
+                "type": "split",
+                "dimension": 76.50602409638554,
+                "children": [
+                  {
+                    "id": "386b91c5fe21c860",
+                    "type": "leaf",
+                    "dimension": 76.07655502392345,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "听力/第二次上课/课后作业0325听力.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    },
+                    "group": "8283281f9983a3cb"
+                  },
+                  {
+                    "id": "c9413bc7e55290fa",
+                    "type": "leaf",
+                    "dimension": 23.923444976076556,
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "听力/第二次上课/课后作业0325听力.md",
+                        "collapseAll": true,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    },
+                    "group": "8283281f9983a3cb"
+                  }
+                ],
+                "direction": "horizontal"
+              },
+              {
+                "id": "9d6a49e38eee161b",
+                "type": "split",
+                "dimension": 23.49397590361446,
+                "children": [
+                  {
+                    "id": "28dad92e89759f3b",
+                    "type": "leaf",
+                    "dimension": 27.491103202846972,
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "听力/第二次上课/课后作业0325听力.md"
+                      }
+                    }
+                  },
+                  {
+                    "id": "726ac73948f68580",
+                    "type": "leaf",
+                    "dimension": 27.491103202846972,
+                    "state": {
+                      "type": "mindmap",
+                      "state": {}
+                    }
+                  },
+                  {
+                    "id": "721dc8201ca836b2",
+                    "type": "leaf",
+                    "dimension": 45.01779359430605,
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "听力/第二次上课/课后作业0325听力.md",
+                        "options": {
+                          "collapse-filter": false,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": true,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.6554983534946918,
+                          "close": true
+                        }
+                      }
+                    },
+                    "group": "8283281f9983a3cb"
+                  }
+                ],
+                "direction": "horizontal"
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2ad5ea38afc71e9c",
+        "type": "split",
+        "children": [
+          {
+            "id": "cea841e032f9c5ab",
+            "type": "tabs",
+            "dimension": 72.24199288256229,
+            "children": [
+              {
+                "id": "f24f2cf1aae346b5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "97219655284d350c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "af6a8fe76139d3a6",
+            "type": "tabs",
+            "dimension": 27.75800711743772,
+            "children": [
+              {
+                "id": "a242b95b9f39e864",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 267.5
+      },
+      "right": {
+        "id": "6eb5b5fca7094554",
+        "type": "split",
+        "children": [
+          {
+            "id": "96590b12aca3392e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "21133a3627f7c251",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "听力/第二次上课/课后作业0325听力.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "95db47646e60d5d9",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "听力/第二次上课/课后作业0325听力.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "c9413bc7e55290fa"
+    },
+    "书写": {
+      "main": {
+        "id": "6b7a676d292a952e",
+        "type": "split",
+        "children": [
+          {
+            "id": "fd1f5cdf8b0dcb7b",
+            "type": "split",
+            "children": [
+              {
+                "id": "386b91c5fe21c860",
+                "type": "leaf",
+                "dimension": 76.50602409638554,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "听力/第一次上课/test.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": true
+                  }
+                },
+                "group": "8283281f9983a3cb"
+              },
+              {
+                "id": "9d6a49e38eee161b",
+                "type": "split",
+                "dimension": 23.49397590361446,
+                "children": [
+                  {
+                    "id": "28dad92e89759f3b",
+                    "type": "leaf",
+                    "dimension": 27.491103202846972,
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "听力/第一次上课/test.md"
+                      }
+                    }
+                  },
+                  {
+                    "id": "726ac73948f68580",
+                    "type": "leaf",
+                    "dimension": 27.491103202846972,
+                    "state": {
+                      "type": "mindmap",
+                      "state": {}
+                    }
+                  },
+                  {
+                    "id": "721dc8201ca836b2",
+                    "type": "leaf",
+                    "dimension": 45.01779359430605,
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "听力/第一次上课/test.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": true,
+                          "showAttachments": true,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1.0000000000000002,
+                          "close": true
+                        }
+                      }
+                    },
+                    "group": "8283281f9983a3cb"
+                  }
+                ],
+                "direction": "horizontal"
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2ad5ea38afc71e9c",
+        "type": "split",
+        "children": [
+          {
+            "id": "cea841e032f9c5ab",
+            "type": "tabs",
+            "dimension": 72.24199288256227,
+            "children": [
+              {
+                "id": "f24f2cf1aae346b5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "97219655284d350c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "af6a8fe76139d3a6",
+            "type": "tabs",
+            "dimension": 27.758007117437717,
+            "children": [
+              {
+                "id": "a242b95b9f39e864",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 267.5
+      },
+      "right": {
+        "id": "6eb5b5fca7094554",
+        "type": "split",
+        "children": [
+          {
+            "id": "96590b12aca3392e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "21133a3627f7c251",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "听力/第一次上课/test.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "386b91c5fe21c860"
+    }
+  },
+  "active": "书写_出链"
+}

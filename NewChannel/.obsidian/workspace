@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "6b7a676d292a952e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd1f5cdf8b0dcb7b",
+        "type": "split",
+        "children": [
+          {
+            "id": "97d937206261380a",
+            "type": "split",
+            "dimension": 76.50602409638554,
+            "children": [
+              {
+                "id": "008446d028c3a7fb",
+                "type": "leaf",
+                "dimension": 76.07655502392345,
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c9413bc7e55290fa",
+                "type": "leaf",
+                "dimension": 23.923444976076556,
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "9d6a49e38eee161b",
+            "type": "split",
+            "dimension": 23.49397590361446,
+            "children": [
+              {
+                "id": "28dad92e89759f3b",
+                "type": "leaf",
+                "dimension": 27.491103202846972,
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "726ac73948f68580",
+                "type": "leaf",
+                "dimension": 27.491103202846972,
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              },
+              {
+                "id": "721dc8201ca836b2",
+                "type": "leaf",
+                "dimension": 45.01779359430605,
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.6554983534946918,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ad5ea38afc71e9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cea841e032f9c5ab",
+        "type": "tabs",
+        "dimension": 72.24199288256229,
+        "children": [
+          {
+            "id": "f24f2cf1aae346b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "97219655284d350c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "af6a8fe76139d3a6",
+        "type": "tabs",
+        "dimension": 27.758007117437717,
+        "children": [
+          {
+            "id": "a242b95b9f39e864",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "6eb5b5fca7094554",
+    "type": "split",
+    "children": [
+      {
+        "id": "96590b12aca3392e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21133a3627f7c251",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95db47646e60d5d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "008446d028c3a7fb",
+  "lastOpenFiles": [
+    "Reading/4th/4thReading0410-Olifant.md",
+    "Reading/4th/4thReading0410-Olifant-mindmap.md",
+    "Reading/4th/().md",
+    "Reading/3rd/3rdReading0409-Olifant.md",
+    "Reading/2nd/2ndReading0404-Olifant.md",
+    "Reading/3rd/3rdReading0409-Olifant-homework.md",
+    "Reading/未命名.md",
+    "Writing/4th/4thWriting0410-Olifant-mindmap.md",
+    "Writing/4th/4thWriting0410-Olifant.md",
+    "Writing/3rd/3rdWriting0409-Olifant.md"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "6b7a676d292a952e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fa39e8649bac409",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "工作项目/弓小姐事项/论文思路.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a68f02abec15a15",
+    "type": "split",
+    "children": [
+      {
+        "id": "c06ff81f08f1c075",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9424925c77f361a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f2ef9e0a0bfeadc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "068e380901155534",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0f0a10b5b4f637d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "528e9c6c8ef0eaaf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工作项目/弓小姐事项/论文思路.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce6a3d1584753641",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08ce0908ffbebe43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "工作项目/弓小姐事项/论文思路.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7fa39e8649bac409",
+  "lastOpenFiles": [
+    "工作项目/弓小姐事项/论文思路.md",
+    "新航道雅思课/Writing 3.md",
+    "新航道雅思课/Writing 2作业.md",
+    "新航道雅思课/Writing/U1.md",
+    "工作项目/人工智能/第三次汇报CNN/第三次汇报CNN.md",
+    "出境学习/PS_CV.md",
+    "工作项目/2022 MCM-ICM/第一次汇报流程.md",
+    "工作项目/2022 MCM-ICM/第二次见面.md",
+    "工作项目/大数据hadoop/基于Spark的温度统计论文.md",
+    "工作项目/大数据hadoop/数据库课设需要完善部分.md"
+  ]
+}
