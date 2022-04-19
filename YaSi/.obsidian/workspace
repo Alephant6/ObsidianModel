@@ -13,19 +13,18 @@
             "dimension": 76.50602409638554,
             "children": [
               {
-                "id": "386b91c5fe21c860",
+                "id": "eb2163ed1ff09e69",
                 "type": "leaf",
                 "dimension": 76.07655502392345,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "出境学习/推荐项目的想法.md",
+                    "file": "README.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
-                },
-                "group": "8283281f9983a3cb"
+                }
               },
               {
                 "id": "c9413bc7e55290fa",
@@ -34,7 +33,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "出境学习/推荐项目的想法.md",
+                    "file": "写作/第一次上课/课前准备0322写作.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -61,7 +60,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "出境学习/推荐项目的想法.md"
+                    "file": "README.md"
                   }
                 }
               },
@@ -81,7 +80,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "出境学习/推荐项目的想法.md",
+                    "file": "写作/第一次上课/课前准备0322写作.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -190,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "出境学习/推荐项目的想法.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "出境学习/推荐项目的想法.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "386b91c5fe21c860",
+  "active": "eb2163ed1ff09e69",
   "lastOpenFiles": [
-    "出境学习/推荐项目的想法.md",
-    "计划/实施情况/2022-04-18.md",
-    "出境学习/().md",
-    "听力/第三次上课/课堂笔记0401听力.md",
-    "写作/第一次上课/课堂笔记0322写作.md",
-    "写作/第一次上课/课后作业0322写作.md",
+    "README.md",
+    "目录.md",
+    "目录-dataview.md",
     "写作/第一次上课/课前准备0322写作.md",
-    "计划/实施情况/2022-04-17.md",
-    "写作/第三次上课/课堂笔记0415写作.md",
-    "写作/第三次上课/课后作业0415写作.md"
+    "兔哥计划/纪燕伟538单词/1stVocabulary0419.md",
+    "计划/实施情况/2022-04-19.md",
+    "计划/实施情况/2022-04-18.md",
+    "出境学习/推荐项目的想法.md",
+    "出境学习/().md",
+    "听力/第三次上课/课堂笔记0401听力.md"
   ]
 }

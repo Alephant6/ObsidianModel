@@ -4,5 +4,7 @@
   "media-extended",
   "obsidian-markmind",
   "obsidian-git",
-  "obsidian-image-auto-upload-plugin"
+  "obsidian-image-auto-upload-plugin",
+  "dataview",
+  "obsidian-dynamic-toc"
 ]

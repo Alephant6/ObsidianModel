@@ -12,6 +12,10 @@ Obsidian自用仓库的几个模板
 2. **效率为王**，效率大于一切，拒绝all in one
 3. 开源，加强交流
 
+## Tips
+
+1. 不建议在windows下使用icloud同步——太卡了
+
 
 ## 模版
 ### AlephantNote

@@ -10,13 +10,15 @@
 
 ## 三、插件
 > 使用markdown就是为了忽略掉各种格式，使笔记更加注重文本本身。使用Obsidian也是一样，不要为了插件而强行提高效率。
-- Advanced Tables——快速插入表格
-- Mdeia Extended——时间戳mp3等媒体
-- Mind Map——思维导图组件
-- Obsidian Git——git同步
-- obsidian markmind——付费，更好看的思维导图，~~pdf标记~~ *使用Adobe*
-- Pandoc Plugin——导出各个格式
-- lmage auto upload Plugin——自动上传图片到github图床（2022.4.3配合git插件，可做到发布到github上）
+1. Advanced Tables——快速插入表格
+2. Mdeia Extended——时间戳mp3等媒体
+3. Mind Map——思维导图组件
+4. Obsidian Git——git同步
+5. obsidian markmind——付费，更好看的思维导图，~~pdf标记~~ *使用Adobe*
+6. Pandoc Plugin——导出各个格式
+7. lmage auto upload Plugin——自动上传图片到github图床（2022.4.3配合git插件，可做到发布到github上）
+8. Dynamic Table of Contents——生成本文档的目录（2022.4.18）
+9. Dataview——像数据库一样管理文件（2022.4.19，配合插件DToC可自动生成整个仓库的目录）
 
 #### 历史1
 - Annotator——高光pdf（2022.4.3删除，因为不如 Adobe功能丰富，不好用）
@@ -50,7 +52,7 @@
 - 拼写检查——关闭（模拟考场环境）
 
 
-## 六、常用的布局或画面
+## 六、功能介绍
 ### （一）、书写
 - 整体文章结构（Mind Map或者大纲）
 - 文件关联（右下角关系谱图）
@@ -94,3 +96,12 @@
 ### （七）、空
 - 快速清空各组件
 ![image.png](https://s2.loli.net/2022/04/01/oMJETagcYyvQXpV.png)
+
+### （八）、生成文章目录
+> 插件8. Dynamic Table of Contents
+![](https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202204191718016.png)
+
+### （九）、生成仓库目录
+> 插件8. Dynamic Table of Contents和9. Dateview
+
+![](https://cdn.jsdelivr.net/gh/Alephant6/PicBed/202204191720924.png)
